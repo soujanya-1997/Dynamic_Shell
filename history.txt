@@ -1,0 +1,8 @@
+ls | wc &
+ps
+clear
+ls | sleep 100 &
+ps
+ls
+cd Documents
+cd /Home
