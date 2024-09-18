@@ -1,7 +1,5 @@
 # POSIX Shell Implementation
 
-**Course**: Advanced Operating Systems 
-**Assignment**: POSIX Shell Implementation  
 
 ## Overview
 
@@ -80,3 +78,5 @@ First, unzip the project folder using the following command:
      make clean  # Deletes previous .o files
      make        # Compiles the shell
     ./shell      # Start the Shell
+
+  
